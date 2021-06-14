@@ -1,8 +1,8 @@
-# libgencrawl
-crawl all books from a library genesis search
+# Libgencrawl
+Libgencrawl quickly browses through all the books available in Library Genesis! 📚✨
 
 # how to use
-- ```git clone https://github.com/simin75simin/libgencrawl```
+- ```git clone https://github.com/Salvelop07/libgencrawl```
 - ```cd libgencrawl```
 - ```python3 -m pip install -r requirements.txt```
 - ```python3 crawl_libgen.py```
